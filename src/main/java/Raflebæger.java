@@ -7,7 +7,7 @@ public class Raflebæger {
 
     public Raflebæger (int antalTerninger) {
         this.antalTerninger = antalTerninger;
-        this.terninger = new ArrayList<Terning>();
+        terninger = new ArrayList<Terning>();
     }
     public int ryst(){
         for (int i = 0; i < antalTerninger; i++) {

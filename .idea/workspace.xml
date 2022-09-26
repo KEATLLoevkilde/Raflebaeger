@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e74541b-e79a-43c5-bc3a-650db1687f97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Raflebæger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Terning.java" afterDir="false" />
+    <list default="true" id="6e74541b-e79a-43c5-bc3a-650db1687f97" name="Changes" comment="Eksamensopgave - Raflebæger">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Raflebæger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Raflebæger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +53,16 @@
       <workItem from="1663959197685" duration="38000" />
       <workItem from="1664173950475" duration="1047000" />
       <workItem from="1664176926120" duration="546000" />
-      <workItem from="1664188807459" duration="269000" />
+      <workItem from="1664188807459" duration="1101000" />
     </task>
+    <task id="LOCAL-00001" summary="Eksamensopgave - Raflebæger">
+      <created>1664189142280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664189142280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eksamensopgave - Raflebæger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eksamensopgave - Raflebæger" />
   </component>
 </project>

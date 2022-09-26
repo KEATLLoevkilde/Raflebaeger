@@ -7,7 +7,8 @@ public class Main {
         int antalTerninger = sc.nextInt();
 
         Raflebæger raflebæger = new Raflebæger(antalTerninger);
-        raflebæger.ryst();
+
+        System.out.println(raflebæger.ryst());
         System.out.println(raflebæger.se());
     }
 }
